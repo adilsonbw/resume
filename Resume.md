@@ -1,10 +1,12 @@
-### Adilson Barros Wanderley
-Computational Physics<br>
-<div>
-  <img style="vertical-align:middle" src="https://github.com/adilsonbw/certificates/blob/main/icon_house.png">
-  <span style="">São Carlos - SP</span>
-</div>
-<div>
-  <img style="vertical-align:middle" src="https://github.com/adilsonbw/certificates/blob/main/icon_smartphone.png">
-  <span style="">(16) 99711-4086</span>
-</div>
+# Adilson Barros Wanderley
+### Físico Computacional<br>
+:house: São Carlos - SP<br>
+:iphone: (16) 99711-4086<br>
+:envelope: adilsonbw@gmail.com<br>
+
+> **Bacharel em Física Computacional, Mestre em Ciências e atualmente estudante de Doutorado.**<br>
+
+### Formação:<br>
+Instituto de Física de São Carlos: Bacharel em Física Computacional (2016);<br>
+Instituto de Física de São Carlos: Mestrado em Ciências com ênfase em Física Computacional (2019);<br>
+
