@@ -18,5 +18,9 @@ Instituto de Física de São Carlos (USP): Mestrado em Ciências com ênfase em 
 
 ## Experiência Profissional
 
-Graduação: Iniciação Científica <br>
-Mestrado: Participação em artigo <br>
+**Graduação:**<br>
+- Iniciação Científica - Aquisição de sinal sonoro no interior do tubo de Kundt. Rotina em Python e C++ utilizando Arduino Uno e motor de passo para controle de microfone e aquisição dos modos normais da onda sonora. Bolsista do Programa Unificado de Bolsas USP.<br>
+- Iniciação Científica - Obtenção de parâmetros básicos em redes complexas: grau médio, coeficiente de aglomeração e tamanho do maior aglomerado em redes Erdös-Rényi. Construção de rotina em C++ para gerar matriz de adjacência e realizar os cálculos. Bolsista do Programa Ensinar com Pesquisa USP.<br><br>
+
+**Mestrado:**<br>
+- Participação em artigo -  <br>
