@@ -68,7 +68,7 @@ Como estudante de Doutorado, cursou a disciplina de Arquiteturas Avançadas de C
 - :es: Compreende Razoavelmente, Fala Pouco, Lê Bem, Escreve Pouco.
 
 **Redes sociais:**
-- [LinkedIn](www.linkedin.com/in/adilsonbw)
+- [LinkedIn](https://www.linkedin.com/in/adilsonbw)
 - [Facebook](https://www.facebook.com/adilson.barroswanderley/)
 - [ORCID](https://orcid.org/0000-0003-0663-2538)
 - [Lattes](http://lattes.cnpq.br/6658994152325544)
