@@ -4,9 +4,9 @@
 :iphone: (16) 99711-4086  
 :envelope: adilsonbw@gmail.com  
 
-> Bacharel em Física Computacional, Mestre em Ciências e atualmente estudante de Doutorado.<br>
+> Bacharel em Física Computacional, Mestre em Ciências e atualmente Doutorado no Laboratório de Física Computacional do IFSC-USP.<br>
 
-A graduação em Física Computacional permitiu cursar disciplinas de programação, como: Introdução à Programação, Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Confira a estrutura curricular do curso de Bacharelado em Física Computacional 2013 - [clique aqui](bacharel_fiscomp.md).<br>
+A graduação em Física Computacional proporcionou desenvolver habilidades em diversas áreas como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Confira a estrutura curricular do curso de Bacharelado em Física Computacional 2013 - [clique aqui](bacharel_fiscomp.md).<br>
 
 No Mestrado cursou a disciplina de Introdução à Programação Paralela. O projeto de Mestrado envolveu análises teóricas para descrição físico/química da estrutura de moléculas em estado cristalino. Estas análises envolvem cálculos teóricos com métodos de Mecânica Quântica Computacional, desenvolvimento de *scripts* e uso de pacotes computacionais como [*CRYSTAL14*](https://www.crystal.unito.it/index.php).<br>
 
