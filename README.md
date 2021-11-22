@@ -10,7 +10,7 @@ Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas
 
 Na Pós-Graduação aprimorou os conhecimentos em Mecânica Quântica, Programação Paralela e Arquiteturas Avançadas de Computadores. Realizou pesquisas utilizando análise teórica, por meio de métodos de Mecânica Quântica Computacional, na descrição físico/química estrutural de moléculas em estado cristalino. Desenvolveu *scripts* e fez uso de pacotes computacionais como [*CRYSTAL14*](https://www.crystal.unito.it/index.php).<br>
 
-A pesquisa atual utiliza modelos computacionais para *fitting* de curvas nos cálculos de estruturas de bandas eletrônicas. Os modelos teóricos utilizados realizam, dentre outras coisas, minimização nos ajustes das curvas por meio da ferramenta [*lmfit*](https://lmfit.github.io/lmfit-py/).
+Em sua pesquisa atual utiliza modelos computacionais para *fitting* de curvas nos cálculos de estruturas de bandas eletrônicas. Os modelos teóricos utilizados realizam, dentre outras coisas, minimização nos ajustes das curvas por meio da ferramenta [*lmfit*](https://lmfit.github.io/lmfit-py/).
 
 ## Formação:
 - Bacharelado em Física Computacional: Instituto de Física de São Carlos - USP (2016).
