@@ -29,7 +29,7 @@ Em sua pesquisa atual utiliza modelos computacionais para *fitting* de curvas no
 - Apresentação oral na *I Semana do Instituto de Física de São Carlos - USP*.
 
 **Mestrado:**
-- Instalação de pacotes computacionais, desenvolvimentos de *scripts* para realização de cálculos, tratamentos de dados e construção de gráficos.
+- Instalação de pacotes computacionais, desenvolvimento de *scripts* para realização de cálculos, tratamentos de dados e construção de gráficos.
 - Desenvolvimento da página web do grupo de Multiusuários [EmulaBRam](https://www.ifsc.usp.br/~emulabram/).
 - Apresentação oral na *III Reunión de la Asociación Latinoamericana de Cristalografía y I Encuentro de la AChCr, Valparaiso, Chile, 2018*.
 - Apresentação oral na *VIII Semana Integrada de Graduação e Pós-Graduação do Instituto de Física de São Carlos - SIFSC8, 2018*.
