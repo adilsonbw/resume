@@ -6,11 +6,11 @@
 
 > Bacharel em Física Computacional, Mestre em Ciências e atualmente é Doutorando no Laboratório de Física Computacional do IFSC-USP.<br>
 
-Na graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Confira a estrutura curricular do curso de Bacharelado em Física Computacional 2013 - [clique aqui](bacharel_fiscomp.md).<br>
+Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Confira a estrutura curricular do curso de Bacharelado em Física Computacional 2013 - [clique aqui](bacharel_fiscomp.md).<br>
 
-Durante a Pós-graduação aprimorou os conhecimentos em Mecânica Quântica, Programação Paralela e Arquiteturas Avançadas de Computadores. Realizou pesquisas envolvendo análises teóricas para descrição físico/química da estrutura de moléculas em estado cristalino por meio de cálculos teóricos com métodos de Mecânica Quântica Computacional. Desenvolveu *scripts* e fez uso de pacotes computacionais como [*CRYSTAL14*](https://www.crystal.unito.it/index.php).<br>
+Na Pós-graduação aprimorou os conhecimentos em Mecânica Quântica, Programação Paralela e Arquiteturas Avançadas de Computadores. Realizou pesquisas utilizando análise teórica, por meio de métodos de Mecânica Quântica Computacional, na descrição físico/química estrutural de moléculas em estado cristalino. Desenvolveu *scripts* e fez uso de pacotes computacionais como [*CRYSTAL14*](https://www.crystal.unito.it/index.php).<br>
 
-Atualmente realiza pesquisas onde utiliza modelos computacionais para *fitting* de curvas nos cálculos de estruturas de bandas eletrônicas. Estes modelos realizam, dentre outras coisas, minimização nos ajustes das curvas por meio da ferramenta [*lmfit*](https://lmfit.github.io/lmfit-py/).
+A pesquisa atual utiliza modelos computacionais para *fitting* de curvas nos cálculos de estruturas de bandas eletrônicas. Os modelos teóricos utilizados realizam, dentre outras coisas, minimização nos ajustes das curvas por meio da ferramenta [*lmfit*](https://lmfit.github.io/lmfit-py/).
 
 ## Formação:
 - Bacharel em Física Computacional: Instituto de Física de São Carlos - USP (2016).
