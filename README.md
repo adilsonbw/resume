@@ -6,7 +6,7 @@
 
 > Bacharel em Física Computacional, Mestre em Ciências e atualmente é Doutorando no Laboratório de Física Computacional do IFSC-USP.<br>
 
-Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Para conhecer a estrutura curricular do curso de Bacharelado em Física Computacional 2013 [clique aqui](bacharel_fiscomp.md).<br>
+Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Modelagem Matemático-Computacional, Arquiteturas de Computadores e Processamento de Imagem e Visão. Para conhecer a estrutura curricular do curso de Bacharelado em Física Computacional 2013 [clique aqui](bacharel_fiscomp.md).<br>
 
 Na Pós-Graduação aprimorou os conhecimentos em Mecânica Quântica, Programação Paralela e Arquiteturas Avançadas de Computadores. Realizou pesquisas utilizando análise teórica, por meio de métodos de Mecânica Quântica Computacional, na descrição físico/química estrutural de moléculas em estado cristalino. Desenvolveu *scripts* e fez uso de pacotes computacionais como [*CRYSTAL14*](https://www.crystal.unito.it/index.php).<br>
 
