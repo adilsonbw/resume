@@ -40,7 +40,7 @@ Em sua pesquisa atual utiliza modelos computacionais para *fitting* de curvas no
 
 **Doutorado:**
 - Avaliador dos trabalhos de Iniciação Científica na *XI Semana Integrada de Graduação e Pós-Graduação do Instituto de Física de São Carlos - SIFSC11, 2021*.
-- Avaliador dos trabalhos de Iniciação Científica na *29.<sup>o</sup> Simpósio Internacional de Iniciação Científica da USP - SIICUSP, 2021*.
+- Avaliador dos trabalhos de Iniciação Científica no *29.<sup>o</sup> Simpósio Internacional de Iniciação Científica da USP - SIICUSP, 2021*.
 - Apresentação virtual assíncrona na *XI Semana Integrada de Graduação e Pós-Graduação do Instituto de Física de São Carlos - SIFSC11, 2021*.
 - Apresentação virtual síncrona no *VI CINE-CMSC Workshop, 2021*.
 - Apresentação virtual assíncrona na *X Semana Integrada de Graduação e Pós-Graduação do Instituto de Física de São Carlos - SIFSC10, 2020*.
