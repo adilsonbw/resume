@@ -4,7 +4,7 @@
 :iphone: (16) 99711-4086  
 :envelope: adilsonbw@gmail.com  
 
-> Bacharel em Física Computacional, Mestre em Ciências e atualmente é Doutorando no Laboratório de Física Computacional do IFSC-USP.<br>
+> Bacharel em Física Computacional, Mestre em Ciências e atualmente faz Doutorado no Laboratório de Física Computacional do IFSC-USP.<br>
 
 Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Modelagem Matemático-Computacional, Arquiteturas de Computadores e Processamento de Imagem e Visão. Para conhecer a estrutura curricular do curso de Bacharelado em Física Computacional 2013 [clique aqui](bacharel_fiscomp.md).<br>
 
