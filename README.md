@@ -6,21 +6,21 @@
 
 > Bacharel em Física Computacional, Mestre em Ciências e atualmente é Doutorando no Laboratório de Física Computacional do IFSC-USP.<br>
 
-Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Para conhecer a estrutura curricular do curso de Bacharelado em Física Computacional 2013, [clique aqui](bacharel_fiscomp.md).<br>
+Durante a Graduação desenvolveu habilidades em Física, Matemática e diversas áreas de computação, como: Algoritmos e Estruturas de Dados, Bancos de Dados, Programação Orientada ao Objeto, Arquiteturas de Computadores e Processamento de Imagem e Visão. Para conhecer a estrutura curricular do curso de Bacharelado em Física Computacional 2013 [clique aqui](bacharel_fiscomp.md).<br>
 
 Na Pós-Graduação aprimorou os conhecimentos em Mecânica Quântica, Programação Paralela e Arquiteturas Avançadas de Computadores. Realizou pesquisas utilizando análise teórica, por meio de métodos de Mecânica Quântica Computacional, na descrição físico/química estrutural de moléculas em estado cristalino. Desenvolveu *scripts* e fez uso de pacotes computacionais como [*CRYSTAL14*](https://www.crystal.unito.it/index.php).<br>
 
 A pesquisa atual utiliza modelos computacionais para *fitting* de curvas nos cálculos de estruturas de bandas eletrônicas. Os modelos teóricos utilizados realizam, dentre outras coisas, minimização nos ajustes das curvas por meio da ferramenta [*lmfit*](https://lmfit.github.io/lmfit-py/).
 
 ## Formação:
-- Bacharel em Física Computacional: Instituto de Física de São Carlos - USP (2016).
+- Bacharelado em Física Computacional: Instituto de Física de São Carlos - USP (2016).
 - Mestrado em Ciências com ênfase em Física Computacional: Instituto de Física de São Carlos - USP (2019).
 - Doutorado em Ciências com ênfase em Física Computacional: Instituto de Física de São Carlos - USP (em andamento).
 
 ## Experiência Profissional
 
 **Graduação:**
-- Iniciação Científica - Rotina em Python e C++ utilizando Arduino Uno e motor de passo para controle de microfone e aquisição dos modos normais da onda sonora no interior do tubo de Kundt. Durante este período foi bolsista do Programa Unificado de Bolsas USP.
+- Iniciação Científica - Rotina em Python e C++ utilizando *Arduino Uno* e motor de passo para controle de microfone e aquisição dos modos normais da onda sonora no interior do tubo de *Kundt*. Durante este período foi bolsista do Programa Unificado de Bolsas USP.
 - Apresentação oral no *24.<sup>o</sup> Simpósio Internacional de Iniciação Científica e Tecnológica da USP*.
 - Correção de provas da Olimpíada Brasileira de Física das Escolas Públicas (OBFEP), editoração e diagramação do Manual com provas corrigidas OBFEP 2013.
 - Iniciação Científica - Rotina em C++ para *Análise da Topologia em Redes Erdös-Rényi* utilizando os parâmetros básicos: grau médio, coeficiente de aglomeração e tamanho do maior aglomerado. Durante este período foi bolsista do Programa Ensinar com Pesquisa USP.
@@ -29,7 +29,7 @@ A pesquisa atual utiliza modelos computacionais para *fitting* de curvas nos cá
 - Apresentação oral na *I Semana do Instituto de Física de São Carlos - USP*.
 
 **Mestrado:**
-- Instalação de pacotes computacionais, desenvolvimentos de scripts para realização de cálculos, tratamentos de dados e construção de gráficos.
+- Instalação de pacotes computacionais, desenvolvimentos de *scripts* para realização de cálculos, tratamentos de dados e construção de gráficos.
 - Desenvolvimento da página web do grupo de Multiusuários [EmulaBRam](https://www.ifsc.usp.br/~emulabram/).
 - Apresentação oral na *III Reunión de la Asociación Latinoamericana de Cristalografía y I Encuentro de la AChCr, Valparaiso, Chile, 2018*.
 - Apresentação oral na *VIII Semana Integrada de Graduação e Pós-Graduação do Instituto de Física de São Carlos - SIFSC8, 2018*.
